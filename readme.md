@@ -49,4 +49,11 @@ php , mobile , designers
 
 #CadDirect - Upload download 3d projects [Backend Software developer]
 
-#BorderLessCommonications - 
+#BorderLessCommonications - Local SIM each time. No Roaming fees - 
+Mobile dev , web developer
+
+#Instant Event App : [ATM]
+Location based Instant Event app . Backend [Python / NodeJs] 
+
+#VirtualAlias
+In near field add details what needed.
