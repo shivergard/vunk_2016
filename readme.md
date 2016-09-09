@@ -24,3 +24,29 @@ Need : BackEnd + FrontEnd + Marketing
 #ProofOfYou
 Digital signing for everyone. Mobile digital signing . Free for Personal - but api amd comercial signing. Need [FrontEnd developer]
 
+#postPal - has many customers. Button for services (flip.io) - Courier call
+
+#FlapChat - put friends to map , so you know where they are. Friends move . Stalkin app. Online travel [IOS]
+
+#nimi - choose name for product.Bran name builder
+
+[UI , Marketing, Developer]
+
+#MovePrep : Flat abroad 
+4 persons need webdev
+
+#Finland - 
+
+#IOT Security
+Mathematical specialist , Developers , Marketing
+
+#GetStyle
+HairDressers as Taxify. http://gettstyle.wixsite.com/getstyle
+php , mobile , designers
+
+#BirthDayWidhList - prepare list of presents what needed.
+[Developer , Designer ]
+
+#CadDirect - Upload download 3d projects [Backend Software developer]
+
+#BorderLessCommonications - 
