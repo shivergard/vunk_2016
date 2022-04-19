@@ -1,59 +1,59 @@
-#Who Cares :
+# Who Cares :
 Nick Seth- Social care 
 Carers must be found at agencies. List of people - no controll.
 
 
-#WalkHunt :
+# WalkHunt :
 Game with correct answers [NodeJs + GeoLocation needed] 
 
-#TipOff [ 60% ]: 
+# TipOff [ 60% ]: 
 Contacts for person + get commisionm for it. 
 Visionary - Project manager - Dev Designer Marketer
 
-#SmartID
+# SmartID
 h@smartid.ee - Micro Payment solutions
 
-#Dont worry do what you like
+# Dont worry do what you like
 Designers + Developers
 
-#reTicket
+# reTicket
 App gives possibility to sell second hand tickets and buy second hand tickets. Ticket search Engine
 Need : BackEnd + FrontEnd + Marketing
 (is it legal - it is illegal to some countries)
 
-#ProofOfYou
+# ProofOfYou
 Digital signing for everyone. Mobile digital signing . Free for Personal - but api amd comercial signing. Need [FrontEnd developer]
 
-#postPal - has many customers. Button for services (flip.io) - Courier call
+# postPal - has many customers. Button for services (flip.io) - Courier call
 
-#FlapChat - put friends to map , so you know where they are. Friends move . Stalkin app. Online travel [IOS]
+# FlapChat - put friends to map , so you know where they are. Friends move . Stalkin app. Online travel [IOS]
 
-#nimi - choose name for product.Bran name builder
+# nimi - choose name for product.Bran name builder
 
 [UI , Marketing, Developer]
 
-#MovePrep : Flat abroad 
+# MovePrep : Flat abroad 
 4 persons need webdev
 
-#Finland - 
+# Finland - 
 
-#IOT Security
+# IOT Security
 Mathematical specialist , Developers , Marketing
 
-#GetStyle
+# GetStyle
 HairDressers as Taxify. http://gettstyle.wixsite.com/getstyle
 php , mobile , designers
 
-#BirthDayWidhList - prepare list of presents what needed.
+# BirthDayWishList - prepare list of presents what needed.
 [Developer , Designer ]
 
-#CadDirect - Upload download 3d projects [Backend Software developer]
+# CadDirect - Upload download 3d projects [Backend Software developer]
 
-#BorderLessCommonications - Local SIM each time. No Roaming fees - 
+# BorderLessCommonications - Local SIM each time. No Roaming fees - 
 Mobile dev , web developer
 
-#Instant Event App : [ATM]
+# Instant Event App : [ATM]
 Location based Instant Event app . Backend [Python / NodeJs] 
 
-#VirtualAlias
+# VirtualAlias
 In near field add details what needed.
